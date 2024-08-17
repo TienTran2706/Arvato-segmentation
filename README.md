@@ -14,8 +14,8 @@ This project aims to develop a customer segmentation report for Arvato Financial
 
 ### Github Repository
 
-You can find the repository here[](https://github.com/TienTran2706/Arvato-segmentation/tree/main)
-
+You can find the repository here[(https://github.com/TienTran2706/Arvato-segmentation/tree/main)]
+]
 ### Python Analysis
 
 You can find the analysis here [](https://github.com/TienTran2706/Arvato-segmentation/blob/main/Arvato%20Project%20Workbook.ipynb)
