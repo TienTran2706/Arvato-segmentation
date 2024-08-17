@@ -22,7 +22,7 @@ You can find the analysis [here](https://github.com/TienTran2706/Arvato-segmenta
 
 ### Project Report
 
-You can find the project report here [](url)
+You can find the project report [here](https://github.com/TienTran2706/Arvato-segmentation/blob/main/Report%20Customer%20Segmentation.pdf)
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
