@@ -7,15 +7,15 @@ This project aims to develop a customer segmentation report for Arvato Financial
 
 ### Features and Technologies Used
 
-** Principal Component Analysis (PCA): For reducing dimensionality of the dataset.
-** K-Means Clustering: For segmenting customers into distinct groups.
-** Gradient Boosting Classifier: Used in predictive modeling to forecast potential customer behavior.
-** Python Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
+- Principal Component Analysis (PCA): For reducing dimensionality of the dataset.
+- K-Means Clustering: For segmenting customers into distinct groups.
+- Gradient Boosting Classifier: Used in predictive modeling to forecast potential customer behavior.
+- Python Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
 
 ### Github Repository
 
 You can find the repository [here](https://github.com/TienTran2706/Arvato-segmentation/tree/main)
-]
+
 ### Python Analysis
 
 You can find the analysis [here](https://github.com/TienTran2706/Arvato-segmentation/blob/main/Arvato%20Project%20Workbook.ipynb)
